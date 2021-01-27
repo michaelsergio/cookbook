@@ -14,7 +14,7 @@
 | Butter (softened)           | 56 g (4 tbsp)   | 28 g (2 tbsp) |
 | Sour Cream (or quark)       | 1/4 cup         | 1/8 cup       |
 | Eggs (lg)                   | 2               | 1             |
-| Raisins (rum soak one hour) | -----------     | --------      |
+| Raisins (rum soak one hour) | -               | -             |
 
 ## Steps
 
