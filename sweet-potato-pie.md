@@ -2,16 +2,16 @@
 
 ## Pie
 
-### Ingrediants
+### Ingredients
 
-* Sweet Potato - 1 lb 
-* Sugar - 208 g 
-* Milk - 120 ml
-* Eggs - 2
-* Nutmeg - 1/2 tsp
-* Cinnamon - 1/2 tsp
-* Vanilla - 1/2 tsp
-* Alt. Pumpkin Spice Mix (instead of Nutmeg/Cinnamon)
+- Sweet Potato - 1 lb
+- Sugar - 208 g
+- Milk - 120 ml
+- Eggs - 2
+- Nutmeg - 1/2 tsp
+- Cinnamon - 1/2 tsp
+- Vanilla - 1/2 tsp
+- Alt. Pumpkin Spice Mix (instead of Nutmeg/Cinnamon)
 
 ### Steps
 
@@ -32,13 +32,11 @@
 3-2-1 Pie recipe
 Makes 2 9oz shells or 1 full pie
 
-* Flour - 12 oz
-* Butter (small pieces) - 8 oz or 2 sticks
-* Ice Water - 2-4 oz
+- Flour - 12 oz
+- Butter (small pieces) - 8 oz or 2 sticks
+- Ice Water - 2-4 oz
 
 ### Ingrediants
 
 1. Mix
 2. Refrigerate - minimum 15 minutes.
-
-
